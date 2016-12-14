@@ -1,0 +1,2 @@
+# IHS-DonusumTabanliGoruntuZenginlestirmeYontemleri
+Bitirme tezi
